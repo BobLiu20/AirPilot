@@ -1,0 +1,9 @@
+.\Obj\lib_str.o: uC-LIB\lib_str.c
+.\Obj\lib_str.o: .\uC-LIB\lib_str.h
+.\Obj\lib_str.o: .\uC-CPU\cpu.h
+.\Obj\lib_str.o: .\uC-CPU\cpu_def.h
+.\Obj\lib_str.o: .\uC-CPU\cpu_cfg.h
+.\Obj\lib_str.o: .\uC-LIB\lib_def.h
+.\Obj\lib_str.o: .\uC-LIB\lib_ascii.h
+.\Obj\lib_str.o: .\BSP\app_cfg.h
+.\Obj\lib_str.o: .\uC-LIB\Cfg\lib_cfg.h

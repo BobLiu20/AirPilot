@@ -1,0 +1,10 @@
+.\Obj\os_core.o: uCOS-III\Source\os_core.c
+.\Obj\os_core.o: .\uCOS-III\Source\os.h
+.\Obj\os_core.o: .\uCOS-III\Cfg\os_cfg.h
+.\Obj\os_core.o: .\uC-CPU\cpu.h
+.\Obj\os_core.o: .\uC-CPU\cpu_def.h
+.\Obj\os_core.o: .\uC-CPU\cpu_cfg.h
+.\Obj\os_core.o: .\uC-CPU\cpu_core.h
+.\Obj\os_core.o: .\uC-LIB\lib_def.h
+.\Obj\os_core.o: .\uCOS-III\os_type.h
+.\Obj\os_core.o: .\uCOS-III\Ports\os_cpu.h
