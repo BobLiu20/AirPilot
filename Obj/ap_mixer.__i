@@ -1,5 +1,0 @@
--c --cpu Cortex-M4.fp -g -O0 --apcs=interwork -I.\Libraries\CMSIS\Device\ST\STM32F4xx\Include -I.\Libraries\CMSIS\Include -I.\Libraries\STM32F4xx_StdPeriph_Driver\inc -I.\User -I.\BSP -I.\uC-CPU -I.\uC-LIB -I.\uC-LIB\Cfg -I.\uCOS-III -I.\uCOS-III\Cfg -I.\uCOS-III\Ports -I.\uCOS-III\Source -I.\Dir -I.\Modules 
--I D:\keil_MDK\ARM\RV31\INC 
--I D:\keil_MDK\ARM\CMSIS\Include 
--I D:\keil_MDK\ARM\Inc\ST\STM32F4xx 
--DSTM32F4XX -DUSE_STDPERIPH_DRIVER -DARM_MATH_CM4 -D__FPU_PRESENT="1" -D__FPU_USED="1" -D__CC_ARM -o ".\Obj\ap_mixer.o" --omf_browse ".\Obj\ap_mixer.crf" --depend ".\Obj\ap_mixer.d" "Modules\AP_Mixer.c"
